@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\bin\Debug\net5.0\StoreDapper.Infra.deps.json
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\bin\Debug\net5.0\StoreDapper.Infra.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\bin\Debug\net5.0\ref\StoreDapper.Infra.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\bin\Debug\net5.0\StoreDapper.Infra.pdb
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.AssemblyInfo.cs
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\ref\StoreDapper.Infra.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Infra\obj\Debug\net5.0\StoreDapper.Infra.pdb
