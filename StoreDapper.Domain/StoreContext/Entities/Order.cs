@@ -29,8 +29,6 @@ namespace StoreDapper.Domain.StoreContext.Entities
         {
 
         }
-
-        // To plance an order
         public void Place()
         {
             // Escrever método
