@@ -1,11 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Flunt.Notifications;
 using StoreDapper.Domain.StoreContext.Enums;
 
 namespace StoreDapper.Domain.StoreContext.Entities
 {
-    public class Order
+    public class Order : Notifiable
     {
         private readonly IList<OrderItem> _items;
         private readonly IList<Delivery> _deliveries;
@@ -35,6 +36,9 @@ namespace StoreDapper.Domain.StoreContext.Entities
         public void Place()
         {
             Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 8).ToUpper();
+
+            if(_items.Count == 0)
+                AddNotification("Order", "Este pedido não possui itens");
         }
 
         public void Pay()

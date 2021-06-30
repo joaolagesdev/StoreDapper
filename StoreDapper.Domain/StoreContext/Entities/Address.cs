@@ -1,8 +1,9 @@
+using Flunt.Notifications;
 using StoreDapper.Domain.StoreContext.Enums;
 
 namespace StoreDapper.Domain.StoreContext.Entities
 {
-    public class Address
+    public class Address : Notifiable
     {
         public Address(
             string street,
