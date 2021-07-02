@@ -11,7 +11,7 @@ namespace StoreDapper.Domain.StoreContext.ValueObjects
 
             AddNotifications(new Contract()
                 .Requires()
-                .IsEmail(Address, "Email", "O E-mail é inválido");   
+                .IsEmail(Address, "Email", "O E-mail é inválido")   
             );
         }
         public string Address { get; private set; }
