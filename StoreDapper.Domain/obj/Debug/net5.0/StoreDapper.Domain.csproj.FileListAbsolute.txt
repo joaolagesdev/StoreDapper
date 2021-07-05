@@ -10,3 +10,6 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\obj\Debug\net5.0\S
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\obj\Debug\net5.0\StoreDapper.Domain.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\obj\Debug\net5.0\ref\StoreDapper.Domain.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\obj\Debug\net5.0\StoreDapper.Domain.pdb
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\bin\Debug\net5.0\StoreDapper.Shared.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\bin\Debug\net5.0\StoreDapper.Shared.pdb
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Domain\obj\Debug\net5.0\StoreDapper.Domain.csproj.CopyComplete

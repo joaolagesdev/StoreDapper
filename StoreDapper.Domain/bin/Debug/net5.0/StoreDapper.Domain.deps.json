@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v5.0": {
       "StoreDapper.Domain/1.0.0": {
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.3",
+          "StoreDapper.Shared": "1.0.0"
         },
         "runtime": {
           "StoreDapper.Domain.dll": {}
@@ -20,6 +21,11 @@
             "assemblyVersion": "1.0.3.0",
             "fileVersion": "1.0.3.0"
           }
+        }
+      },
+      "StoreDapper.Shared/1.0.0": {
+        "runtime": {
+          "StoreDapper.Shared.dll": {}
         }
       }
     }
@@ -36,6 +42,11 @@
       "sha512": "sha512-7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
       "path": "flunt/1.0.3",
       "hashPath": "flunt.1.0.3.nupkg.sha512"
+    },
+    "StoreDapper.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

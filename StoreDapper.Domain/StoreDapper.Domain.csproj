@@ -3,8 +3,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <ProjectReference Include="..\StoreDapper.Shared\StoreDapper.Shared.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Flunt" Version="1.0.3"/>
+    <PackageReference Include="Flunt" Version="1.0.3" />
   </ItemGroup>
 </Project>

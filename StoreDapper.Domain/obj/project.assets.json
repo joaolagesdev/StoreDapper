@@ -10,6 +10,16 @@
         "runtime": {
           "lib/netstandard2.0/Flunt.dll": {}
         }
+      },
+      "StoreDapper.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
+        }
       }
     }
   },
@@ -25,11 +35,17 @@
         "flunt.nuspec",
         "lib/netstandard2.0/Flunt.dll"
       ]
+    },
+    "StoreDapper.Shared/1.0.0": {
+      "type": "project",
+      "path": "../StoreDapper.Shared/StoreDapper.Shared.csproj",
+      "msbuildProject": "../StoreDapper.Shared/StoreDapper.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Flunt >= 1.0.3"
+      "Flunt >= 1.0.3",
+      "StoreDapper.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,7 +77,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
+              "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
