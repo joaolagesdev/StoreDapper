@@ -99,3 +99,5 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\St
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Domain.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Domain.pdb
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\Flunt.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Shared.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Shared.pdb

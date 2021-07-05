@@ -1648,13 +1648,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Flunt": "1.0.3"
+          "Flunt": "1.0.3",
+          "StoreDapper.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/StoreDapper.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/StoreDapper.Domain.dll": {}
+        }
+      },
+      "StoreDapper.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
         }
       }
     }
@@ -5745,6 +5756,11 @@
       "type": "project",
       "path": "../StoreDapper.Domain/StoreDapper.Domain.csproj",
       "msbuildProject": "../StoreDapper.Domain/StoreDapper.Domain.csproj"
+    },
+    "StoreDapper.Shared/1.0.0": {
+      "type": "project",
+      "path": "../StoreDapper.Shared/StoreDapper.Shared.csproj",
+      "msbuildProject": "../StoreDapper.Shared/StoreDapper.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
