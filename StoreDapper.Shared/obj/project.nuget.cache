@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QYXZyGO3q0QrbfjLiumbKioau6BtjJEVUIty5kI4JZlQhiz13or33km+pT6qi+SJmPNte8HPiYCmZ6xKVKXukQ==",
+  "dgSpecHash": "KUCsVFTX6bGR8LLS5SJVqIdzcGVbtE6P13y7pQ5T4DDQRBgc9Uuc85sbU9QcuLtK5N+N+5e/gtnzjLR7ZfG/kQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

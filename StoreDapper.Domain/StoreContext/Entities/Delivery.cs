@@ -1,9 +1,10 @@
 using System;
 using StoreDapper.Domain.StoreContext.Enums;
+using StoreDapper.Shared.Entities;
 
 namespace StoreDapper.Domain.StoreContext
 {
-    public class Delivery
+    public class Delivery : Entity
     {
         public Delivery(DateTime estimatedDeliveryDate)
         {

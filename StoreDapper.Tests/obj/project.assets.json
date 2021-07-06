@@ -1661,6 +1661,9 @@
       "StoreDapper.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flunt": "1.0.3"
+        },
         "compile": {
           "bin/placeholder/StoreDapper.Shared.dll": {}
         },

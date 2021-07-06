@@ -24,6 +24,9 @@
         }
       },
       "StoreDapper.Shared/1.0.0": {
+        "dependencies": {
+          "Flunt": "1.0.3"
+        },
         "runtime": {
           "StoreDapper.Shared.dll": {}
         }

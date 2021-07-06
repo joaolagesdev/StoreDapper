@@ -1,8 +1,8 @@
-using Flunt.Notifications;
+using StoreDapper.Shared.Entities;
 
 namespace StoreDapper.Domain.StoreContext.Entities
 {
-    public class Product : Notifiable
+    public class Product : Entity
     {
         public Product(
             string title, 

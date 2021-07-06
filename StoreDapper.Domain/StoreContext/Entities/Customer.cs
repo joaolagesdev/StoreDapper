@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
-using Flunt.Notifications;
 using StoreDapper.Domain.StoreContext.ValueObjects;
+using StoreDapper.Shared.Entities;
 
 namespace StoreDapper.Domain.StoreContext.Entities
 {
-    public class Customer : Notifiable
+    public class Customer : Entity
     {
         private readonly IList<Address> _addresses; // private => _
         public Customer(
