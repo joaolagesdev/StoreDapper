@@ -51,7 +51,7 @@ namespace StoreDapper.Domain.StoreContext.Handlers
 
             if (Invalid)
                 return null;
-            
+
             // Persisti o cliente
             _repository.Save(customer);
 
