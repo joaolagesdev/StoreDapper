@@ -11,7 +11,7 @@ namespace StoreDapper.Tests.Handlers
         [TestMethod]
         public void ShouldRegisterCustomerWhenCommandIsValid()
         {
-             var command = new CreateCustomerCommand();
+            var command = new CreateCustomerCommand();
             command.FirstName = "João";
             command.LastName = "Lages";
             command.Document = "73733365070";
@@ -21,6 +21,11 @@ namespace StoreDapper.Tests.Handlers
             Assert.AreEqual(true, command.IsValid());
 
             var handler = new CustomerHandler(new FakeCustomerRepository(), new FakeEmailService());
+
+           var result = handler.Handle(command);
+
+           Assert.AreNotEqual(null, result);
+           Assert.AreEqual(true, handler.Valid);
         }
     }
 }

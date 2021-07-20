@@ -86,7 +86,6 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\zh
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\StoreDapper.Tests.csprojAssemblyReference.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\StoreDapper.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\StoreDapper.Tests.AssemblyInfoInputs.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\StoreDapper.Tests.AssemblyInfo.cs
@@ -101,3 +100,4 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\St
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\Flunt.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Shared.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\bin\Debug\net5.0\StoreDapper.Shared.pdb
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Tests\obj\Debug\net5.0\StoreDapper.Tests.csproj.AssemblyReference.cache
