@@ -1,5 +1,7 @@
 -- No CQRS podem ser utilizados dois bancos, um para escrita e outro para leitura --
 
+USE storedapper;
+
 CREATE TABLE [Customer]
 (
 	[Id] UNIQUEIDENTIFIER PRIMARY KEY NOT NULL,
@@ -62,3 +64,4 @@ CREATE TABLE [Delivery] (
 	[Status] INT NOT NULL DEFAULT(1),
 	FOREIGN KEY([OrderId]) REFERENCES [Order]([Id])
 )
+
