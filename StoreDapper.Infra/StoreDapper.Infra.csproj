@@ -8,5 +8,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\StoreDapper.Shared\StoreDapper.Shared.csproj" />
+    <ProjectReference Include="..\StoreDapper.Domain\StoreDapper.Domain.csproj" />
   </ItemGroup>
 </Project>
