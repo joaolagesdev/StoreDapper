@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {}
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
         "projectName": "StoreDapper.Domain",
-        "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj"
+              "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
+                "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
         "projectName": "StoreDapper.Shared",
-        "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
         "projectName": "StoreDapper.Tests",
-        "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -161,8 +161,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
-                "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj"
+              "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
+                "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj"
               }
             }
           }

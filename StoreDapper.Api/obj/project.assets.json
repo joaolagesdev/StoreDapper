@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\StoreDapper.Api.csproj",
+      "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\StoreDapper.Api.csproj",
       "projectName": "StoreDapper.Api",
-      "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\StoreDapper.Api.csproj",
+      "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\StoreDapper.Api.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\obj\\",
+      "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

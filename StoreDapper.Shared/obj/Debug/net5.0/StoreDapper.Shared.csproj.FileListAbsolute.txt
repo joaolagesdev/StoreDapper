@@ -2,7 +2,6 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\bin\Debug\net5.0\S
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\bin\Debug\net5.0\StoreDapper.Shared.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\bin\Debug\net5.0\ref\StoreDapper.Shared.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\bin\Debug\net5.0\StoreDapper.Shared.pdb
-C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.csprojAssemblyReference.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.AssemblyInfoInputs.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\S
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\ref\StoreDapper.Shared.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.pdb
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Shared\obj\Debug\net5.0\StoreDapper.Shared.csproj.AssemblyReference.cache

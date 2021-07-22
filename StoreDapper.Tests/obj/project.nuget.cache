@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbDAzHd4yPgkE1wjNVTSPq5FrF03R+gNa2t30KxYsuVcW/2+4vG9pBlQyzNPSN2jC/tBVCYSkM6UPfWRfMPKiQ==",
+  "dgSpecHash": "VIrYxYKIX/2n2Ez1RNyR6rd1bDMa3rhjZSbqfJm4hhNM5nfnKBz5eWTl203S9AC/gvSNL4y/Ww2HBl6sB3/fNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
+  "projectFilePath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {}
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
         "projectName": "StoreDapper.Shared",
-        "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

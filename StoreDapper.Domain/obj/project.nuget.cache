@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxrImIwQgZUU9RvXWkrn4SiGMfUAy0xFitwdTbUtIxnbyKBfNtOF79thSr+172oaRC28wSYC5RNtesmWIPpskQ==",
+  "dgSpecHash": "UBKVtM+xiN7uLy4oaQQjDhOiOB0ArRrKJEwNuUKszZb4bVFu9AfPTf/vBwC6dQPsTQy+tp9XwwlrBLUlUgmzuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
+  "projectFilePath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
   ],

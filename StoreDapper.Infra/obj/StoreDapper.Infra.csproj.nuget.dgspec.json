@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj": {}
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj": {
+    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
         "projectName": "StoreDapper.Infra",
-        "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
+        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,6 +42,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
