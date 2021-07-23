@@ -1,4 +1,5 @@
 using StoreDapper.Domain.StoreContext.Entities;
+using StoreDapper.Domain.StoreContext.Queries;
 using StoreDapper.Domain.StoreContext.Repositories;
 
 namespace StoreDapper.Tests.Fakes
@@ -13,6 +14,11 @@ namespace StoreDapper.Tests.Fakes
         public bool CheckEmail(string email)
         {
             return false;
+        }
+
+        public CustomerOrdersCountResult GetCustomerOrdersCountResult(string document)
+        {
+            throw new System.NotImplementedException();
         }
 
         public void Save(Customer customer)
