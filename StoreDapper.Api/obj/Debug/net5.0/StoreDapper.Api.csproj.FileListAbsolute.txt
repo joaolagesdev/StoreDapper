@@ -7,7 +7,6 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\Stor
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\StoreDapper.Api.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\ref\StoreDapper.Api.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\StoreDapper.Api.pdb
-C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.csprojAssemblyReference.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.AssemblyInfoInputs.cache
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.AssemblyInfo.cs
@@ -21,3 +20,8 @@ C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\Stor
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\ref\StoreDapper.Api.dll
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.pdb
 C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.genruntimeconfig.cache
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Projetos\StoreDapper\StoreDapper.Api\obj\Debug\net5.0\StoreDapper.Api.csproj.CopyComplete
