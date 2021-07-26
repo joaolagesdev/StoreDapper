@@ -3,6 +3,12 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Flunt" Version="1.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StoreDapper.Domain\StoreDapper.Domain.csproj" />
+    <ProjectReference Include="..\StoreDapper.Shared\StoreDapper.Shared.csproj" />
+    <ProjectReference Include="..\StoreDapper.Infra\StoreDapper.Infra.csproj" />
   </ItemGroup>
 </Project>

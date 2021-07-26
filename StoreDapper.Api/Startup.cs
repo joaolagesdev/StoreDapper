@@ -1,8 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using StoreDapper.Domain.StoreContext.Repositories;
+using StoreDapper.Domain.StoreContext.Services;
+using StoreDapper.Infra.StoreContext.DataContexts;
+using StoreDapper.Infra.StoreContext.Repositories;
+using StoreDapper.Infra.StoreContext.Services;
 
 namespace StoreDapper.Api
 {
@@ -11,6 +15,9 @@ namespace StoreDapper.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddScoped<StoreDataContext, StoreDataContext>();
+            services.AddTransient<ICustomerRepository, CustomerRepository>();
+            services.AddTransient<IEmailService, EmailService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
