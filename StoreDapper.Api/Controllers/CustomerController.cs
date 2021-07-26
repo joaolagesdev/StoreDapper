@@ -5,6 +5,7 @@ using StoreDapper.Domain.StoreContext.Commands.CustomerCommands.Inputs;
 using StoreDapper.Domain.StoreContext.Commands.CustomerCommands.Outputs;
 using StoreDapper.Domain.StoreContext.Entities;
 using StoreDapper.Domain.StoreContext.Handlers;
+using StoreDapper.Domain.StoreContext.Queries;
 using StoreDapper.Domain.StoreContext.Repositories;
 using StoreDapper.Shared.Commands;
 
