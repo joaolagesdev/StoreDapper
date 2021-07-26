@@ -60,18 +60,18 @@ namespace StoreDapper.Api.Controllers
             return result;
         }
 
-        [HttpPut]
-        [Route("v1/customers/{id}")]
-        public ICommandResult Put([FromBody]Customer command)
-        {
-            return null;
-        }
+        // [HttpPut]
+        // [Route("v1/customers/{id}")]
+        // public ICommandResult Put([FromBody]UpdateCustomerCommand command)
+        // {
+        //     return null;
+        // }
 
-        [HttpDelete]
-        [Route("v1/customers{id}")]
-        public string Delete()
-        {
-            return null;
-        }
+        // [HttpDelete]
+        // [Route("v1/customers{id}")]
+        // public string Delete()
+        // {
+        //     return null;
+        // }
     }
 }
