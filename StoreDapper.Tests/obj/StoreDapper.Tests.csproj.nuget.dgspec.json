@@ -1,38 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {}
+    "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Tests/StoreDapper.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
+    "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
+        "projectUniqueName": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj",
         "projectName": "StoreDapper.Domain",
-        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\obj\\",
+        "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj",
+        "packagesPath": "/home/joaoartur/.nuget/packages/",
+        "outputPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joaoartur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CP.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CV.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/GN.NET/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
-                "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj"
+              "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj": {
+                "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj"
               }
             }
           }
@@ -67,32 +62,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj": {
+    "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+        "projectUniqueName": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj",
         "projectName": "StoreDapper.Shared",
-        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
+        "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj",
+        "packagesPath": "/home/joaoartur/.nuget/packages/",
+        "outputPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joaoartur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CP.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CV.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/GN.NET/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -130,39 +120,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj": {
+    "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Tests/StoreDapper.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
+        "projectUniqueName": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Tests/StoreDapper.Tests.csproj",
         "projectName": "StoreDapper.Tests",
-        "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\StoreDapper.Tests.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Tests\\obj\\",
+        "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Tests/StoreDapper.Tests.csproj",
+        "packagesPath": "/home/joaoartur/.nuget/packages/",
+        "outputPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/joaoartur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CP.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CV.NET/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/GN.NET/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj": {
-                "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Domain\\StoreDapper.Domain.csproj"
+              "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj": {
+                "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj"
               }
             }
           }
@@ -209,7 +194,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,6 +11,15 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
+      "Flunt/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/3.1.0": {
         "type": "package",
         "compile": {
@@ -139,6 +148,33 @@
             "rid": "win"
           }
         }
+      },
+      "StoreDapper.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flunt": "1.0.3",
+          "StoreDapper.Shared": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/StoreDapper.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreDapper.Domain.dll": {}
+        }
+      },
+      "StoreDapper.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flunt": "1.0.3"
+        },
+        "compile": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreDapper.Shared.dll": {}
+        }
       }
     }
   },
@@ -159,6 +195,18 @@
         "lib/net5.0/Dapper.xml",
         "lib/netstandard2.0/Dapper.dll",
         "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "Flunt/1.0.3": {
+      "sha512": "7/wzY8uowlaM5Xydj428PdF1yp1bfuSEm5ONqnx4xiEbPv/zfGLNQoJQVNzU7cqmt3MmvJEGrCCEg7T1NHFdmA==",
+      "type": "package",
+      "path": "flunt/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.3.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
       ]
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
@@ -473,44 +521,58 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "StoreDapper.Domain/1.0.0": {
+      "type": "project",
+      "path": "../StoreDapper.Domain/StoreDapper.Domain.csproj",
+      "msbuildProject": "../StoreDapper.Domain/StoreDapper.Domain.csproj"
+    },
+    "StoreDapper.Shared/1.0.0": {
+      "type": "project",
+      "path": "../StoreDapper.Shared/StoreDapper.Shared.csproj",
+      "msbuildProject": "../StoreDapper.Shared/StoreDapper.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Dapper >= 2.0.90",
+      "StoreDapper.Domain >= 1.0.0",
+      "StoreDapper.Shared >= 1.0.0",
       "System.Data.SqlClient >= 4.8.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "/home/joaoartur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
+      "projectUniqueName": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Infra/StoreDapper.Infra.csproj",
       "projectName": "StoreDapper.Infra",
-      "projectPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\StoreDapper.Infra.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Infra\\obj\\",
+      "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Infra/StoreDapper.Infra.csproj",
+      "packagesPath": "/home/joaoartur/.nuget/packages/",
+      "outputPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Infra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/joaoartur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CP.NET/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CV.NET/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/GN.NET/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj": {
+              "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Domain/StoreDapper.Domain.csproj"
+            },
+            "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj": {
+              "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -547,7 +609,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

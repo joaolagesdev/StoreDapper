@@ -1,3 +1,4 @@
+using BaltaStore.Infra.StoreContext.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -7,7 +8,6 @@ using StoreDapper.Domain.StoreContext.Repositories;
 using StoreDapper.Domain.StoreContext.Services;
 using StoreDapper.Infra.StoreContext.DataContexts;
 using StoreDapper.Infra.StoreContext.Repositories;
-using StoreDapper.Infra.StoreContext.Services;
 
 namespace StoreDapper.Api
 {

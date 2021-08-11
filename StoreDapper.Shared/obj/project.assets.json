@@ -33,30 +33,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "/home/joaoartur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
+      "projectUniqueName": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj",
       "projectName": "StoreDapper.Shared",
-      "projectPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\StoreDapper.Shared.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Projetos\\StoreDapper\\StoreDapper.Shared\\obj\\",
+      "projectPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/StoreDapper.Shared.csproj",
+      "packagesPath": "/home/joaoartur/.nuget/packages/",
+      "outputPath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/joaoartur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CP.NET/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/CV.NET/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/DrogariaAraujo/_packaging/GN.NET/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -94,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
