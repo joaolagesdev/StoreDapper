@@ -68,3 +68,4 @@ C:/Users/HP/Documents/Projetos/StoreDapper/StoreDapper.Api/obj/Debug/net5.0/Stor
 /home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Api/obj/Debug/net5.0/StoreDapper.Api.RazorTargetAssemblyInfo.cache
 /home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Api/obj/Debug/net5.0/StoreDapper.Api.csproj.CopyComplete
 /home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Api/obj/Debug/net5.0/StoreDapper.Api.genruntimeconfig.cache
+/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Api/bin/Debug/net5.0/mono_crash.21acb2c211.0.json

@@ -15,7 +15,11 @@ namespace StoreDapper.Api
     {
         public void ConfigureServices(IServiceCollection services)
         {
+           
             services.AddMvc();
+
+            services.AddResponseCompression();
+
             services.AddScoped<StoreDataContext, StoreDataContext>();
             services.AddTransient<ICustomerRepository, CustomerRepository>();
             services.AddTransient<IEmailService, EmailService>();
@@ -27,7 +31,9 @@ namespace StoreDapper.Api
             if (env.IsDevelopment())
                 app.UseDeveloperExceptionPage();
 
+            
             app.UseMvc();
+            app.UseResponseCompression();
         }
     }
 }

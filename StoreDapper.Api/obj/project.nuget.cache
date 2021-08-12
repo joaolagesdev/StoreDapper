@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u3rA5XM2bZK6Ib7KVNIUnilTQeWXWctG4QLRgJ2uinGJM5vFTBnk/+1Q6ZkNVK+dO+tGHdoCl0eXqj5Geiq1OQ==",
+  "dgSpecHash": "N3m7SodqpIE/ys9dxYDt+yldXa9Kh+2UGr/o7Wi3hgbqhOmCY026cergrF8Aicb2rdY7ox82fPE8O4uIFMHNvA==",
   "success": true,
   "projectFilePath": "/home/joaoartur/Documentos/dev/StoreDapper/StoreDapper.Api/StoreDapper.Api.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.httpoverrides/2.2.0/microsoft.aspnetcore.httpoverrides.2.2.0.nupkg.sha512",
+    "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.responsecompression/2.2.0/microsoft.aspnetcore.responsecompression.2.2.0.nupkg.sha512",
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.routing/2.2.0/microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.routing.abstractions/2.2.0/microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
     "/home/joaoartur/.nuget/packages/microsoft.aspnetcore.server.iis/2.2.0/microsoft.aspnetcore.server.iis.2.2.0.nupkg.sha512",
